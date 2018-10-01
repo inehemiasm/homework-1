@@ -92,16 +92,16 @@ Please edit this file to add your answers to the following questions.
 * What is the port number? 443
 * What is the path? /commitments
 * What are the query parameters? date = 2017-12-09
-* What is the fragment?
+* What is the fragment? none
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? localhost
+* What is the port number? 4000
+* What is the path? admin
+* What are the query parameters? none
+* What is the fragment? none
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
