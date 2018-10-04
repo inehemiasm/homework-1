@@ -105,30 +105,29 @@ Please edit this file to add your answers to the following questions.
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? http
+* What is the host? lehman.edu
+* What is the port number? 80
+* What is the path?  /academics/mathematics-computer-science/index.php
+* What are the query parameters? none
+* What is the fragment?  none
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
-* What is the scheme/protocol?
-* What is the host?
-* What is the port number?
-* What is the path?
-* What are the query parameters?
-* What is the fragment?
+* What is the scheme/protocol? https
+* What is the host?       en.wikipedia.org      
+* What is the port number? 443
+* What is the path? wiki/Greek_alphabet
+* What are the query parameters? none
+* What is the fragment? Glyph_variants`
 
 
 ### 9. HTTPS
 
-What does the S stand for in HTTPS?
+What does the S stand for in HTTPS? Secured 
 
-Why is HTTPS better than HTTP?
-
-Should all web pages use HTTPS?
+Why is HTTPS better than HTTP?  becuase it send over a secure encripted sockets, therefore the data packets and sends over a secure connection.
+Should all web pages use HTTPS? yes
 
 
 ## Webpages
@@ -141,7 +140,7 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 ### 10. What is a webpage?
 
-*Your answer here.*
+a single, usually hypertext document on the World Wide Web that can incorporate text, graphics, sounds, etc.
 
 
 ### 11. Webpage I like
