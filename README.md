@@ -146,42 +146,56 @@ a single, usually hypertext document on the World Wide Web that can incorporate 
 ### 11. Webpage I like
 
 What's one webpage you like? Why?
+College Hummor and i like it because theres always funny stories.
 
 
 ### 12. Website I don’t like
 
 What's one webpage you like? Why?
+Reddit, too many adds.
+
 
 
 ### 13. Resources
 
 Where is a good place to look for information about HTML tags?
+A simple guide to html.
 
 
 ### 14. HTML Versions
 
-Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+Which version of HTML are we covering in this class?
+HTML 5
+What is it's DOCTYPE tag? Document type definition
 
-What is XML?
+What is XML? 
+markup language 
 
 What is XHTML?
+EXtensible HyperText Markup Language
 
 
 ### 15. HTML
 
 Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
 
+ASCII
+
 Are HTML files interpreted or executed?
+It is Interpreted by the browser.
 
 
 ### 16. Browser versioning
 
 Which versions of Microsoft Internet Explorer support the `<nav>` tag?
+	Explorer 9
 
 
 ### 17. HTML Validity
 
 What is one tool that can tell you if you have written valid HTML?
+ W3C Markup Validator, it makes sure that a page complies with a specific set of rules.
+
 
 
 ### 18. Accessibility
@@ -189,42 +203,65 @@ What is one tool that can tell you if you have written valid HTML?
 What does "Accessibility" mean in the context of web development?
 
 What types of people does accessibility concern?
+Tipically the Web is fundamentally designed to work for all people, whatever their hardware, software, language, location, or ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability.
 
 What is one tool you can use to verify the accessibility of your websites?
+WCAG (Web Content Accessibility Guidelines)
 
 
 ### 19. head / body
 
 What is the `<head>` tag for?
+The <header> element represents a container for introductory content or a set of navigational links.
 
 What is the `<body>` tag for?
+The HTML <body> tag defines the main content of the HTML document or the section of the HTML document that will be directly visible on your web page. This tag is also commonly referred to as the <body> element.
+
 
 
 ### 20. Head…
 
 What's the difference between `<head>`, `<header>`, and heading tags?
+The main difference is that the <head> element is for META data and the <header> element is for actual content. 
 
 
 ### 21. Tables
 
 What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
+<table>	Defines a table
+<th>	Defines a header cell in a table
+<tr>	Defines a row in a table
+<td>	Defines a cell in a table
+<caption>	Defines a table caption
+<colgroup>	Specifies a group of one or more columns in a table for formatting
+<col>	Specifies column properties for each column within a <colgroup> element
+<thead>	Groups the header content in a table
+<tbody>	Groups the body content in a table
+<tfoot>	Groups the footer content in a table
+
 
 
 ### 22. Non-closing tags
 
 Which tags don't have a closing pair (e.g. `<br>`)?
+<br>, <hr>, <image>.
+
 
 
 ### 23. Links
 
 How do you make a link open in a new window?
+just add target="_blank" attribute to your links
+
 
 
 ### 24. IFRAME
 
 What is an IFRAME?
+An IFrame (Inline Frame) is an HTML document embedded inside another HTML document on a website
 
 What are IFRAMEs commonly used for?
+The IFrame HTML element is often used to insert content from another source, such as an advertisement, into a Web page
 
 
 ## Writing Code
@@ -256,10 +293,14 @@ Please modify the [bugs.html](bugs.html) file in this repository to fix the erro
 ### 28. Pace check
 
 Class is going… too slow / just right / too fast.
+just right 
 
 
 ### 29. Jobs
 
 Add a link to one web development job based in NYC:
+https://www.indeed.com/q-Web-Developer-l-New-York,-NY-jobs.html
+
 
 What do you still need to learn to meet the requirements?
+Frameworks
